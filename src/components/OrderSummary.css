@@ -1,0 +1,32 @@
+.order-summary {
+  padding: 20px;
+  background-color: #f0f0f0;
+  width: 80%;
+  margin: auto;
+  margin-top: 2%;
+}
+
+.order-box-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.order-box {
+  flex: 1;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.order-box h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.order-box p {
+  font-size: 16px;
+  color: #333;
+}
